@@ -1,8 +1,16 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import { signOut } from 'firebase/auth';
+import { useAuthState } from 'react-firebase-hooks/auth';
+import auth from '../../firebase.init';
 const Navbar = () => {
+    const [user] = useAuthState(auth);
+
+    const handleSignOut = () => {
+        signOut(auth);
+    }
     return (
-        <div className="navbar bg-base-100 py-3 shadow pl-8">
+        <div className="navbar bg-base-100 py-3 shadow lg:px-24">
             <div>
                 <div className="dropdown">
                     <label tabindex="0" className="btn btn-ghost lg:hidden">
@@ -32,8 +40,12 @@ const Navbar = () => {
                                 <li><a className='btn btn-ghost hover:text-primary font-semi-bold' href='/#'>Resource 2</a></li>
                             </ul>
                         </li>
-                        <button className='btn btn-outline btn-primary font-bold px-5'>Login</button>
-                        <button className='btn btn-primary font-bold px-5 my-3 text-white'>SignUp</button>
+                        {user ?
+                            <button className='btn btn-outline btn-primary font-bold px-5' onClick={handleSignOut}>SignOut</button> :
+                            <>
+                                <Link to='/login' className='btn btn-outline btn-primary font-bold px-5'>Login</Link>
+                                <Link to='/signup' className='btn btn-primary font-bold px-5 my-3 text-white'>SignUp</Link>
+                            </>}
                     </ul>
                 </div>
                 <a className="btn btn-ghost normal-case text-2xl text-primary font-bold" href='/#'>Rent-House</a>
@@ -66,8 +78,14 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end hidden lg:flex">
-                <button className='btn btn-outline btn-primary font-bold px-5'>Login</button>
-                <button className='btn btn-primary font-bold mx-4 px-5 text-white'>SignUp</button>
+                {user ?
+                    <>
+                        <button className='btn btn-primary font-bold px-5' onClick={handleSignOut}>Sign Out</button>
+                    </> :
+                    <>
+                        <Link to='/login' className='btn btn-outline btn-primary font-bold px-5'>Login</Link>
+                        <Link to='/signup' className='btn btn-primary font-bold mx-4 px-5 text-white'>SignUp</Link>
+                    </>}
             </div>
         </div>
     );
