@@ -56,7 +56,7 @@
 		"price": "1279.12",
 		"bathrooms": 1,
 		"city" : "new york",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -68,7 +68,7 @@
 		"price": "1342.11",
 		"bathrooms": 3,
 		"city" : "new york",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -81,7 +81,7 @@
 		"price": "1296.35",
 		"bathrooms": 2,
 		"city" : "new york",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -93,7 +93,7 @@
 		"price": "1063.69",
 		"bathrooms": 1,
 		"city" : "new york",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -105,7 +105,7 @@
 		"price": "1012.59",
 		"bathrooms": 1,
 		"city" : "new york",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -118,7 +118,7 @@
 		"price": "1389.18",
 		"bathrooms": 2,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -130,7 +130,7 @@
 		"price": "1061.45",
 		"bathrooms": 1,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -143,7 +143,7 @@
 		"price": "1033.88",
 		"bathrooms": 2,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -156,7 +156,7 @@
 		"price": "1289.73",
 		"bathrooms": 2,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -241,7 +241,7 @@
 		"price": "1098.43",
 		"bathrooms": 2,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2501965/pexels-photo-2501965.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -254,7 +254,7 @@
 		"price": "1348.69",
 		"bathrooms": 1,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -267,7 +267,7 @@
 		"price": "1158.67",
 		"bathrooms": 2,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/731082/pexels-photo-731082.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -279,7 +279,7 @@
 		"price": "1383.03",
 		"bathrooms": 3,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2581922/pexels-photo-2581922.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -291,7 +291,7 @@
 		"price": "1373.59",
 		"bathrooms": 2,
 		"city" : "miami",
-		"propertyType": "house",
+		"propertyType": "aprtment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2079234/pexels-photo-2079234.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -340,7 +340,7 @@
 		"price": "1191.14",
 		"bathrooms": 3,
 		"city" : "washington",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2079249/pexels-photo-2079249.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -352,7 +352,7 @@
 		"price": "1201.73",
 		"bathrooms": 3,
 		"city" : "washington",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -365,7 +365,7 @@
 		"price": "1231.41",
 		"bathrooms": 1,
 		"city" : "washington",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/210464/pexels-photo-210464.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -377,7 +377,7 @@
 		"price": "1372.46",
 		"bathrooms": 2,
 		"city" : "washington",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -463,7 +463,7 @@
 		"price": "1135.57",
 		"bathrooms": 2,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -475,7 +475,7 @@
 		"price": "1295.05",
 		"bathrooms": 3,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -487,7 +487,7 @@
 		"price": "1267.49",
 		"bathrooms": 2,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2098405/pexels-photo-2098405.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -499,7 +499,7 @@
 		"price": "1103.29",
 		"bathrooms": 3,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -511,7 +511,7 @@
 		"price": "1093.44",
 		"bathrooms": 2,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/277559/pexels-photo-277559.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
@@ -573,7 +573,7 @@
 		"price": "1185.46",
 		"bathrooms": 1,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -586,7 +586,7 @@
 		"price": "1309.33",
 		"bathrooms": 2,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -599,7 +599,7 @@
 		"price": "1346.76",
 		"bathrooms": 2,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/1544420/pexels-photo-1544420.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -612,7 +612,7 @@
 		"price": "1126.15",
 		"bathrooms": 3,
 		"city" : "california",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -625,7 +625,7 @@
 		"price": "1007.98",
 		"bathrooms": 2,
 		"city" : "mumbai",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/463996/pexels-photo-463996.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -728,7 +728,7 @@
 		"price": "2183.01",
 		"bathrooms": 1,
 		"city" : "mumbai",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2091166/pexels-photo-2091166.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -741,7 +741,7 @@
 		"price": "2319.34",
 		"bathrooms": 2,
 		"city" : "mumbai",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/279607/pexels-photo-279607.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -754,7 +754,7 @@
 		"price": "2357.88",
 		"bathrooms": 2,
 		"city" : "mumbai",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/3330118/pexels-photo-3330118.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -767,7 +767,7 @@
 		"price": "2060.78",
 		"bathrooms": 2,
 		"city" : "mumbai",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2850472/pexels-photo-2850472.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -780,7 +780,7 @@
 		"price": "2340.10",
 		"bathrooms": 2,
 		"city" : "mumbai",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -793,7 +793,7 @@
 		"price": "2127.79",
 		"bathrooms": 3,
 		"city" : "mumbai",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/323776/pexels-photo-323776.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -806,7 +806,7 @@
 		"price": "2387.57",
 		"bathrooms": 2,
 		"city" : "texas",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/463734/pexels-photo-463734.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -819,7 +819,7 @@
 		"price": "2232.30",
 		"bathrooms": 3,
 		"city" : "texas",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/1642125/pexels-photo-1642125.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -832,7 +832,7 @@
 		"price": "2155.25",
 		"bathrooms": 1,
 		"city" : "texas",
-		"propertyType": "house",
+		"propertyType": "apartment",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/388830/pexels-photo-388830.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -973,7 +973,7 @@
 		"price": "2093.01",
 		"bathrooms": 1,
 		"city" : "los angles",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2253916/pexels-photo-2253916.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -986,7 +986,7 @@
 		"price": "2046.86",
 		"bathrooms": 3,
 		"city" : "los angles",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -999,7 +999,7 @@
 		"price": "1295.16",
 		"bathrooms": 2,
 		"city" : "los angles",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2439595/pexels-photo-2439595.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1012,7 +1012,7 @@
 		"price": "1137.12",
 		"bathrooms": 3,
 		"city" : "los angles",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1025,7 +1025,7 @@
 		"price": "1067.58",
 		"bathrooms": 1,
 		"city" : "los angles",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/3214064/pexels-photo-3214064.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1038,7 +1038,7 @@
 		"price": "1004.87",
 		"bathrooms": 2,
 		"city" : "los angles",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1051,7 +1051,7 @@
 		"price": "1186.75",
 		"bathrooms": 3,
 		"city" : "los angles",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1064,7 +1064,7 @@
 		"price": "1265.67",
 		"bathrooms": 1,
 		"city" : "los angles",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2183521/pexels-photo-2183521.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1116,7 +1116,7 @@
 		"price": "1097.23",
 		"bathrooms": 1,
 		"city" : "dhaka",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2360673/pexels-photo-2360673.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1129,7 +1129,7 @@
 		"price": "1000.81",
 		"bathrooms": 2,
 		"city" : "dhaka",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/1876045/pexels-photo-1876045.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1142,7 +1142,7 @@
 		"price": "1373.10",
 		"bathrooms": 3,
 		"city" : "dhaka",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
@@ -1155,7 +1155,7 @@
 		"price": "1104.29",
 		"bathrooms": 2,
 		"city" : "dhaka",
-		"propertyType": "apartment",
+		"propertyType": "house",
 		"size":"8x6",
 		"photoUrl": "https://images.pexels.com/photos/2090653/pexels-photo-2090653.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 

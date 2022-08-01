@@ -18,7 +18,7 @@ const Properties = () => {
     }, []);
     const handleLocation = (event) => {
         const location = event.target.value;
-        setLocations(location);
+        setLocations(location.toLowerCase());
     }
     const handlePrice = (event) => {
         const price = event.target.value;
@@ -92,7 +92,7 @@ const Properties = () => {
                 </div>
                 {/* filtering bar end */}
             </div>
-            <div className='mx-40 mt-16'>
+            <div className='mx-40 mt-16 mb-48'>
                 <div className='grid grid-cols-3 gap-6'>
                     {cities.map((property) => (
                         <ShowProperty
