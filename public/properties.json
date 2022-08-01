@@ -4,48 +4,48 @@
 		"name": "Anastasia Johnston",
 		"address": "Ap #628-749 Congue, Ave",
 		"beds": 3,
-		"price": "$1,281.88",
+		"price": "1281.88",
 		"bathrooms": 1,
-		"country": "Rockhampton",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "2",
 		"name": "Whilemina Reed",
 		"address": "Ap #706-8831 Neque. Avenue",
 		"beds": 3,
-		"price": "$1,352.76",
+		"price": "1352.76",
 		"bathrooms": 2,
-		"country": "Polokwane",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "3",
 		"name": "Erica Olsen",
 		"address": "Ap #846-1881 Ante. Avenue",
 		"beds": 3,
-		"price": "$1,011.07",
+		"price": "1011.07",
 		"bathrooms": 2,
-		"country": "Gunsan",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "4",
 		"name": "Elijah Simpson",
 		"address": "199-5346 Donec Rd.",
 		"beds": 3,
-		"price": "$1,107.33",
+		"price": "1107.33",
 		"bathrooms": 3,
-		"country": "Freiburg",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -53,24 +53,24 @@
 		"name": "George Padilla",
 		"address": "9554 Sem, St.",
 		"beds": 4,
-		"price": "$1,279.12",
+		"price": "1279.12",
 		"bathrooms": 1,
-		"country": "Starachowice",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/101808/pexels-photo-101808.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "6",
 		"name": "Yuli Barton",
 		"address": "474-4181 Fames Road",
 		"beds": 2,
-		"price": "$1,342.11",
+		"price": "1342.11",
 		"bathrooms": 3,
-		"country": "Białystok",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -78,36 +78,36 @@
 		"name": "Leonard Burgess",
 		"address": "679-5206 Dui. St.",
 		"beds": 3,
-		"price": "$1,296.35",
+		"price": "1296.35",
 		"bathrooms": 2,
-		"country": "Odda",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "8",
 		"name": "Vincent Mcmahon",
 		"address": "Ap #760-1320 Risus Street",
 		"beds": 2,
-		"price": "$1,063.69",
+		"price": "1063.69",
 		"bathrooms": 1,
-		"country": "Mataram",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "9",
 		"name": "Bert Gates",
 		"address": "Ap #891-960 Hendrerit Avenue",
 		"beds": 5,
-		"price": "$1,012.59",
+		"price": "1012.59",
 		"bathrooms": 1,
-		"country": "Chungju",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "new york",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -115,24 +115,24 @@
 		"name": "Wayne Hale",
 		"address": "Ap #942-3741 Cras Rd.",
 		"beds": 4,
-		"price": "$1,389.18",
+		"price": "1389.18",
 		"bathrooms": 2,
-		"country": "Ulyanovsk",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "11",
 		"name": "Garrison Hull",
 		"address": "Ap #748-4882 Velit Road",
 		"beds": 4,
-		"price": "$1,061.45",
+		"price": "1061.45",
 		"bathrooms": 1,
-		"country": "Heilongjiang",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -140,12 +140,12 @@
 		"name": "Neil Simon",
 		"address": "Ap #797-2416 Hendrerit Ave",
 		"beds": 2,
-		"price": "$1,033.88",
+		"price": "1033.88",
 		"bathrooms": 2,
-		"country": "Nedlands",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/280229/pexels-photo-280229.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -153,84 +153,84 @@
 		"name": "Daphne Thompson",
 		"address": "P.O. Box 685, 8533 Leo. Street",
 		"beds": 3,
-		"price": "$1,289.73",
+		"price": "1289.73",
 		"bathrooms": 2,
-		"country": "Hastings",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2635038/pexels-photo-2635038.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "14",
 		"name": "Oren Pickett",
 		"address": "Ap #662-8165 Ut St.",
 		"beds": 1,
-		"price": "$1,247.61",
+		"price": "1247.61",
 		"bathrooms": 3,
-		"country": "Okene",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1643389/pexels-photo-1643389.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1643389/pexels-photo-1643389.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "15",
 		"name": "Rhona Fischer",
 		"address": "269-6933 Donec Ave",
 		"beds": 1,
-		"price": "$1,256.60",
+		"price": "1256.60",
 		"bathrooms": 1,
-		"country": "Zirl",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "16",
 		"name": "Calista Collier",
 		"address": "887-8986 Ac Avenue",
 		"beds": 4,
-		"price": "$1,372.59",
+		"price": "1372.59",
 		"bathrooms": 3,
-		"country": "Ipswich",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "17",
 		"name": "Abel Graham",
 		"address": "494-3618 Mauris Avenue",
 		"beds": 4,
-		"price": "$1,251.35",
+		"price": "1251.35",
 		"bathrooms": 1,
-		"country": "Seogwipo",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "18",
 		"name": "Yael Wilcox",
 		"address": "Ap #180-9954 Nunc Street",
 		"beds": 4,
-		"price": "$1,083.40",
+		"price": "1083.40",
 		"bathrooms": 2,
-		"country": "Bida",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/280222/pexels-photo-280222.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "19",
 		"name": "Ria Mcconnell",
 		"address": "559-5648 Gravida Rd.",
 		"beds": 4,
-		"price": "$1,080.86",
+		"price": "1080.86",
 		"bathrooms": 2,
-		"country": "Bovesse",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"  
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"  
 
 	},
 	{
@@ -238,12 +238,12 @@
 		"name": "Alec Christensen",
 		"address": "Ap #656-3620 Nec Street",
 		"beds": 3,
-		"price": "$1,098.43",
+		"price": "1098.43",
 		"bathrooms": 2,
-		"country": "Tarnów",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2501965/pexels-photo-2501965.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2501965/pexels-photo-2501965.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -251,12 +251,12 @@
 		"name": "Silas Velez",
 		"address": "Ap #974-6903 Amet St.",
 		"beds": 5,
-		"price": "$1,348.69",
+		"price": "1348.69",
 		"bathrooms": 1,
-		"country": "Jafarabad",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -264,60 +264,60 @@
 		"name": "Dora Mccoy",
 		"address": "2521 Mattis Ave",
 		"beds": 4,
-		"price": "$1,158.67",
+		"price": "1158.67",
 		"bathrooms": 2,
-		"country": "Jhelum",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/731082/pexels-photo-731082.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/731082/pexels-photo-731082.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "23",
 		"name": "Francesca Powers",
 		"address": "Ap #432-2648 Tempor Rd.",
 		"beds": 3,
-		"price": "$1,383.03",
+		"price": "1383.03",
 		"bathrooms": 3,
-		"country": "Cần Thơ",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2581922/pexels-photo-2581922.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2581922/pexels-photo-2581922.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "24",
 		"name": "Evelyn Kerr",
 		"address": "Ap #641-1902 Augue Avenue",
 		"beds": 3,
-		"price": "$1,373.59",
+		"price": "1373.59",
 		"bathrooms": 2,
-		"country": "Sicuani",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2079234/pexels-photo-2079234.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "miami",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2079234/pexels-photo-2079234.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "25",
 		"name": "Tanner Valenzuela",
 		"address": "Ap #815-4985 Ante Av.",
 		"beds": 3,
-		"price": "$1,065.09",
+		"price": "1065.09",
 		"bathrooms": 3,
-		"country": "Cumaribo",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "26",
 		"name": "Marcia Flores",
 		"address": "Ap #415-5143 Nunc Street",
 		"beds": 2,
-		"price": "$1,374.39",
+		"price": "1374.39",
 		"bathrooms": 1,
-		"country": "Bacabal",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/221540/pexels-photo-221540.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -325,36 +325,36 @@
 		"name": "Baker Patel",
 		"address": "689-6691 Ut St.",
 		"beds": 4,
-		"price": "$1,310.01",
+		"price": "1310.01",
 		"bathrooms": 1,
-		"country": "Ajaccio",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/259962/pexels-photo-259962.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/259962/pexels-photo-259962.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "28",
 		"name": "Dylan Daniels",
 		"address": "175-1407 In St.",
 		"beds": 1,
-		"price": "$1,191.14",
+		"price": "1191.14",
 		"bathrooms": 3,
-		"country": "Dégelis",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2079249/pexels-photo-2079249.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2079249/pexels-photo-2079249.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "29",
 		"name": "Linus Roman",
 		"address": "Ap #515-5243 Nam St.",
 		"beds": 3,
-		"price": "$1,201.73",
+		"price": "1201.73",
 		"bathrooms": 3,
-		"country": "Waiheke Island",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -362,36 +362,36 @@
 		"name": "Zephania Hill",
 		"address": "415-9365 Massa. Road",
 		"beds": 3,
-		"price": "$1,231.41",
+		"price": "1231.41",
 		"bathrooms": 1,
-		"country": "Altmünster",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/210464/pexels-photo-210464.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/210464/pexels-photo-210464.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "31",
 		"name": "Idola Compton",
 		"address": "891-7423 Molestie. Street",
 		"beds": 3,
-		"price": "$1,372.46",
+		"price": "1372.46",
 		"bathrooms": 2,
-		"country": "Korosten",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "32",
 		"name": "Dalton Dale",
 		"address": "P.O. Box 794, 6208 Nunc Avenue",
 		"beds": 4,
-		"price": "$1,009.49",
+		"price": "1009.49",
 		"bathrooms": 2,
-		"country": "Guangxi",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2462015/pexels-photo-2462015.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2462015/pexels-photo-2462015.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -399,12 +399,12 @@
 		"name": "Herman Rush",
 		"address": "116-978 Et Rd.",
 		"beds": 3,
-		"price": "$1,004.10",
+		"price": "1004.10",
 		"bathrooms": 1,
-		"country": "Leeuwarden",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1546168/pexels-photo-1546168.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1546168/pexels-photo-1546168.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -412,144 +412,144 @@
 		"name": "Warren Boyer",
 		"address": "P.O. Box 133, 5971 Porttitor Avenue",
 		"beds": 4,
-		"price": "$1,034.44",
+		"price": "1034.44",
 		"bathrooms": 3,
-		"country": "Tarnów",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2640604/pexels-photo-2640604.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2640604/pexels-photo-2640604.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "35",
 		"name": "Kevyn Burch",
 		"address": "P.O. Box 191, 8291 Enim Ave",
 		"beds": 4,
-		"price": "$1,087.42",
+		"price": "1087.42",
 		"bathrooms": 1,
-		"country": "Tabuk",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1080696/pexels-photo-1080696.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1080696/pexels-photo-1080696.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "36",
 		"name": "Hashim Dejesus",
 		"address": "274-3826 Amet Ave",
 		"beds": 4,
-		"price": "$1,076.30",
+		"price": "1076.30",
 		"bathrooms": 3,
-		"country": "Pagadian",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/209296/pexels-photo-209296.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "37",
 		"name": "Julian Hebert",
 		"address": "239-9493 Accumsan Rd.",
 		"beds": 5,
-		"price": "$1,399.79",
+		"price": "1399.79",
 		"bathrooms": 2,
-		"country": "Lviv",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/259751/pexels-photo-259751.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "washington",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/259751/pexels-photo-259751.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "38",
 		"name": "Briar Carlson",
 		"address": "965-3058 Sed Road",
 		"beds": 4,
-		"price": "$1,135.57",
+		"price": "1135.57",
 		"bathrooms": 2,
-		"country": "Ilagan",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/277667/pexels-photo-277667.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "39",
 		"name": "Wesley Thompson",
 		"address": "420-8398 Aliquam Av.",
 		"beds": 4,
-		"price": "$1,295.05",
+		"price": "1295.05",
 		"bathrooms": 3,
-		"country": "Yunnan",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/323775/pexels-photo-323775.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "40",
 		"name": "Marsden Stout",
 		"address": "Ap #515-9367 Ipsum Street",
 		"beds": 4,
-		"price": "$1,267.49",
+		"price": "1267.49",
 		"bathrooms": 2,
-		"country": "Penrith",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2098405/pexels-photo-2098405.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2098405/pexels-photo-2098405.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "41",
 		"name": "Nevada Clemons",
 		"address": "8893 In Ave",
 		"beds": 4,
-		"price": "$1,103.29",
+		"price": "1103.29",
 		"bathrooms": 3,
-		"country": "Chancay",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/323772/pexels-photo-323772.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "42",
 		"name": "Sarah Ross",
 		"address": "P.O. Box 286, 2121 Non, Rd.",
 		"beds": 3,
-		"price": "$1,093.44",
+		"price": "1093.44",
 		"bathrooms": 2,
-		"country": "Uitenhage",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/277559/pexels-photo-277559.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/277559/pexels-photo-277559.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "43",
 		"name": "Keefe Barrett",
 		"address": "896-2793 Sodales St.",
 		"beds": 4,
-		"price": "$1,110.56",
+		"price": "1110.56",
 		"bathrooms": 2,
-		"country": "Wonju",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "44",
 		"name": "Hedda Lang",
 		"address": "Ap #724-275 Lorem St.",
 		"beds": 3,
-		"price": "$1,237.80",
+		"price": "1237.80",
 		"bathrooms": 2,
-		"country": "Ryazan",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/462205/pexels-photo-462205.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/462205/pexels-photo-462205.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "45",
 		"name": "Kevyn Adams",
 		"address": "198-4180 Justo Av.",
 		"beds": 2,
-		"price": "$1,264.80",
+		"price": "1264.80",
 		"bathrooms": 3,
-		"country": "Tambov",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -557,12 +557,12 @@
 		"name": "Olympia Carpenter",
 		"address": "P.O. Box 210, 9051 Ultrices. Street",
 		"beds": 2,
-		"price": "$1,002.66",
+		"price": "1002.66",
 		"bathrooms": 1,
-		"country": "Christchurch",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/280221/pexels-photo-280221.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -570,12 +570,12 @@
 		"name": "Rogan Cotton",
 		"address": "453-8066 Tincidunt Road",
 		"beds": 4,
-		"price": "$1,185.46",
+		"price": "1185.46",
 		"bathrooms": 1,
-		"country": "Campinas",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2724748/pexels-photo-2724748.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -583,12 +583,12 @@
 		"name": "Micah Hogan",
 		"address": "Ap #266-6253 Vivamus Street",
 		"beds": 4,
-		"price": "$1,309.33",
+		"price": "1309.33",
 		"bathrooms": 2,
-		"country": "Wonju",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/221024/pexels-photo-221024.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -596,12 +596,12 @@
 		"name": "Dylan Kim",
 		"address": "2877 Molestie St.",
 		"beds": 3,
-		"price": "$1,346.76",
+		"price": "1346.76",
 		"bathrooms": 2,
-		"country": "Hoogeveen",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1544420/pexels-photo-1544420.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1544420/pexels-photo-1544420.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -609,12 +609,12 @@
 		"name": "Jescie Whitfield",
 		"address": "P.O. Box 914, 2928 Molestie. Road",
 		"beds": 3,
-		"price": "$1,126.15",
+		"price": "1126.15",
 		"bathrooms": 3,
-		"country": "Zaria",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "california",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -622,12 +622,12 @@
 		"name": "Xantha Duke",
 		"address": "6346 Semper Av.",
 		"beds": 2,
-		"price": "$1,007.98",
+		"price": "1007.98",
 		"bathrooms": 2,
-		"country": "Denpasar",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/463996/pexels-photo-463996.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/463996/pexels-photo-463996.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -635,24 +635,24 @@
 		"name": "Nadine Tucker",
 		"address": "973-8984 Amet Rd.",
 		"beds": 1,
-		"price": "$1,181.81",
+		"price": "1181.81",
 		"bathrooms": 2,
-		"country": "Bauchi",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2251247/pexels-photo-2251247.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2251247/pexels-photo-2251247.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "53",
 		"name": "Jessica O'connor",
 		"address": "Ap #676-6714 Dictum Rd.",
 		"beds": 1,
-		"price": "$1,127.26",
+		"price": "1127.26",
 		"bathrooms": 2,
-		"country": "Vienna",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/262405/pexels-photo-262405.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/262405/pexels-photo-262405.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -660,12 +660,12 @@
 		"name": "Branden Mcgowan",
 		"address": "3984 Ante Ave",
 		"beds": 2,
-		"price": "$1,174.81",
+		"price": "2174.81",
 		"bathrooms": 1,
-		"country": "Uyo",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -673,12 +673,12 @@
 		"name": "Dana Smith",
 		"address": "Ap #488-1271 Nisl. Ave",
 		"beds": 2,
-		"price": "$1,147.73",
+		"price": "2147.73",
 		"bathrooms": 1,
-		"country": "Finspång",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2079434/pexels-photo-2079434.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2079434/pexels-photo-2079434.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -686,12 +686,12 @@
 		"name": "Aiko Gomez",
 		"address": "Ap #595-247 Eget, Ave",
 		"beds": 4,
-		"price": "$1,278.61",
+		"price": "2278.61",
 		"bathrooms": 2,
-		"country": "Haddington",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2121120/pexels-photo-2121120.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2121120/pexels-photo-2121120.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -699,12 +699,12 @@
 		"name": "Hunter Mccarthy",
 		"address": "4706 Posuere St.",
 		"beds": 4,
-		"price": "$1,371.13",
+		"price": "2371.13",
 		"bathrooms": 2,
-		"country": "Hunan",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2104151/pexels-photo-2104151.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2104151/pexels-photo-2104151.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -712,12 +712,12 @@
 		"name": "Magee Gates",
 		"address": "Ap #671-4138 Tincidunt St.",
 		"beds": 2,
-		"price": "$1,029.18",
+		"price": "2029.18",
 		"bathrooms": 2,
-		"country": "Renfrew",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/259593/pexels-photo-259593.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/259593/pexels-photo-259593.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -725,12 +725,12 @@
 		"name": "Randall Golden",
 		"address": "732-4279 Ut, Rd.",
 		"beds": 3,
-		"price": "$1,183.01",
+		"price": "2183.01",
 		"bathrooms": 1,
-		"country": "Gdańsk",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2091166/pexels-photo-2091166.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2091166/pexels-photo-2091166.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -738,12 +738,12 @@
 		"name": "Paula Boyer",
 		"address": "516-127 Molestie Street",
 		"beds": 5,
-		"price": "$1,319.34",
+		"price": "2319.34",
 		"bathrooms": 2,
-		"country": "Pica",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/279607/pexels-photo-279607.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/279607/pexels-photo-279607.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -751,12 +751,12 @@
 		"name": "Hakeem Lester",
 		"address": "603-3796 Diam. St.",
 		"beds": 2,
-		"price": "$1,357.88",
+		"price": "2357.88",
 		"bathrooms": 2,
-		"country": "Whangarei",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/3330118/pexels-photo-3330118.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/3330118/pexels-photo-3330118.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -764,12 +764,12 @@
 		"name": "Eliana Whitaker",
 		"address": "232-2313 Purus Av.",
 		"beds": 3,
-		"price": "$1,060.78",
+		"price": "2060.78",
 		"bathrooms": 2,
-		"country": "Mora",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2850472/pexels-photo-2850472.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2850472/pexels-photo-2850472.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -777,12 +777,12 @@
 		"name": "Joseph Cook",
 		"address": "398-8571 Parturient Ave",
 		"beds": 4,
-		"price": "$1,340.10",
+		"price": "2340.10",
 		"bathrooms": 2,
-		"country": "Nelson",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -790,12 +790,12 @@
 		"name": "Ruby Patterson",
 		"address": "Ap #359-448 Interdum. Av.",
 		"beds": 5,
-		"price": "$1,127.79",
+		"price": "2127.79",
 		"bathrooms": 3,
-		"country": "Nha Trang",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/323776/pexels-photo-323776.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "mumbai",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/323776/pexels-photo-323776.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -803,12 +803,12 @@
 		"name": "Plato Holder",
 		"address": "Ap #259-9924 Vitae Ave",
 		"beds": 2,
-		"price": "$1,387.57",
+		"price": "2387.57",
 		"bathrooms": 2,
-		"country": "Söderhamn",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/463734/pexels-photo-463734.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/463734/pexels-photo-463734.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -816,12 +816,12 @@
 		"name": "Alika Hines",
 		"address": "P.O. Box 988, 4701 Vitae, Av.",
 		"beds": 4,
-		"price": "$1,232.30",
+		"price": "2232.30",
 		"bathrooms": 3,
-		"country": "Greater Hobart",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1642125/pexels-photo-1642125.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1642125/pexels-photo-1642125.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -829,12 +829,12 @@
 		"name": "Gretchen Mason",
 		"address": "9713 Vel Av.",
 		"beds": 2,
-		"price": "$1,155.25",
+		"price": "2155.25",
 		"bathrooms": 1,
-		"country": "San Juan de Girón",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/388830/pexels-photo-388830.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/388830/pexels-photo-388830.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -842,12 +842,12 @@
 		"name": "Shafira Brewer",
 		"address": "515-7922 Lacus. Ave",
 		"beds": 3,
-		"price": "$1,273.24",
+		"price": "2273.24",
 		"bathrooms": 3,
-		"country": "Vosselaar",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -855,12 +855,12 @@
 		"name": "Giacomo Combs",
 		"address": "P.O. Box 112, 9868 Sed Av.",
 		"beds": 2,
-		"price": "$1,225.87",
+		"price": "2225.87",
 		"bathrooms": 1,
-		"country": "Karachi",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2119713/pexels-photo-2119713.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2119713/pexels-photo-2119713.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -868,12 +868,12 @@
 		"name": "Darius Levy",
 		"address": "Ap #973-9123 Pulvinar Street",
 		"beds": 3,
-		"price": "$1,335.90",
+		"price": "2335.90",
 		"bathrooms": 2,
-		"country": "Saintes",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/276514/pexels-photo-276514.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/276514/pexels-photo-276514.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -881,24 +881,24 @@
 		"name": "Craig Harvey",
 		"address": "666-3856 Ornare Rd.",
 		"beds": 4,
-		"price": "$1,222.87",
+		"price": "2222.87",
 		"bathrooms": 3,
-		"country": "Spijkenisse",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2098913/pexels-photo-2098913.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2098913/pexels-photo-2098913.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "72",
 		"name": "Shannon Ellison",
 		"address": "869-2323 Sed, Road",
 		"beds": 5,
-		"price": "$1,320.07",
+		"price": "2320.07",
 		"bathrooms": 2,
-		"country": "Carcar",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/271649/pexels-photo-271649.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/271649/pexels-photo-271649.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -906,12 +906,12 @@
 		"name": "Keane Wade",
 		"address": "Ap #558-6384 Mattis Rd.",
 		"beds": 2,
-		"price": "$1,149.25",
+		"price": "2149.25",
 		"bathrooms": 1,
-		"country": "Kremenchuk",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/164522/pexels-photo-164522.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -919,12 +919,12 @@
 		"name": "Clio Hart",
 		"address": "P.O. Box 347, 8619 Rutrum Rd.",
 		"beds": 3,
-		"price": "$1,084.03",
+		"price": "2084.03",
 		"bathrooms": 2,
-		"country": "Rivne",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1475938/pexels-photo-1475938.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1475938/pexels-photo-1475938.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -932,12 +932,12 @@
 		"name": "Abraham Richardson",
 		"address": "Ap #347-9462 Molestie St.",
 		"beds": 5,
-		"price": "$1,256.18",
+		"price": "2256.18",
 		"bathrooms": 2,
-		"country": "Neelum Valley",
-		"property-type": "house",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2224956/pexels-photo-2224956.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "texas",
+		"propertyType": "house",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2224956/pexels-photo-2224956.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -945,12 +945,12 @@
 		"name": "Connor Boyer",
 		"address": "Ap #254-7358 Scelerisque, Rd.",
 		"beds": 4,
-		"price": "$1,285.50",
+		"price": "2285.50",
 		"bathrooms": 3,
-		"country": "Palangka Raya",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/453201/pexels-photo-453201.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/453201/pexels-photo-453201.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -958,24 +958,24 @@
 		"name": "Channing Mullen",
 		"address": "977-1658 Nunc Street",
 		"beds": 3,
-		"price": "$1,062.88",
+		"price": "2062.88",
 		"bathrooms": 3,
-		"country": "Gansu",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 	},
 	{
 		"id": "78",
 		"name": "Kane Harrell",
 		"address": "747-6130 Sem, Street",
 		"beds": 4,
-		"price": "$1,093.01",
+		"price": "2093.01",
 		"bathrooms": 1,
-		"country": "Chittoor",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2253916/pexels-photo-2253916.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2253916/pexels-photo-2253916.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -983,12 +983,12 @@
 		"name": "Kareem Cote",
 		"address": "Ap #644-9849 Metus. Avenue",
 		"beds": 2,
-		"price": "$1,046.86",
+		"price": "2046.86",
 		"bathrooms": 3,
-		"country": "Changi Bay",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/259685/pexels-photo-259685.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -996,12 +996,12 @@
 		"name": "Edan Gray",
 		"address": "Ap #562-6884 Ipsum. Av.",
 		"beds": 3,
-		"price": "$1,295.16",
+		"price": "1295.16",
 		"bathrooms": 2,
-		"country": "Taupo",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2439595/pexels-photo-2439595.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2439595/pexels-photo-2439595.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1009,12 +1009,12 @@
 		"name": "Keith Fields",
 		"address": "233-4004 Dui. St.",
 		"beds": 2,
-		"price": "$1,137.12",
+		"price": "1137.12",
 		"bathrooms": 3,
-		"country": "Galway",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1022,12 +1022,12 @@
 		"name": "Lars Knox",
 		"address": "Ap #355-7855 Cursus St.",
 		"beds": 2,
-		"price": "$1,067.58",
+		"price": "1067.58",
 		"bathrooms": 1,
-		"country": "St. Veit an der Glan",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/3214064/pexels-photo-3214064.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/3214064/pexels-photo-3214064.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1035,12 +1035,12 @@
 		"name": "Buckminster Weiss",
 		"address": "6772 Felis Ave",
 		"beds": 2,
-		"price": "$1,004.87",
+		"price": "1004.87",
 		"bathrooms": 2,
-		"country": "Diyarbakır",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1048,12 +1048,12 @@
 		"name": "Leroy Byrd",
 		"address": "265-4439 Fringilla St.",
 		"beds": 5,
-		"price": "$1,186.75",
+		"price": "1186.75",
 		"bathrooms": 3,
-		"country": "Steyr",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1172064/pexels-photo-1172064.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1061,12 +1061,12 @@
 		"name": "Martha Gomez",
 		"address": "590-8029 A, Street",
 		"beds": 4,
-		"price": "$1,265.67",
+		"price": "1265.67",
 		"bathrooms": 1,
-		"country": "Münster",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2183521/pexels-photo-2183521.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2183521/pexels-photo-2183521.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1074,12 +1074,12 @@
 		"name": "Violet Cruz",
 		"address": "Ap #580-3977 Gravida St.",
 		"beds": 3,
-		"price": "$1,226.64",
+		"price": "1226.64",
 		"bathrooms": 2,
-		"country": "Piracicaba",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/667221/pexels-photo-667221.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/667221/pexels-photo-667221.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1087,12 +1087,12 @@
 		"name": "Gabriel Hoover",
 		"address": "P.O. Box 684, 5002 Curabitur Road",
 		"beds": 2,
-		"price": "$1,063.52",
+		"price": "1063.52",
 		"bathrooms": 2,
-		"country": "Pachuca",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "los angles",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1100,12 +1100,12 @@
 		"name": "Abraham Schultz",
 		"address": "608-3595 Donec Ave",
 		"beds": 4,
-		"price": "$1,239.86",
+		"price": "1239.86",
 		"bathrooms": 2,
-		"country": "Çermik",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2290609/pexels-photo-2290609.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "dhaka",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2290609/pexels-photo-2290609.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1113,12 +1113,12 @@
 		"name": "Desirae Gallagher",
 		"address": "Ap #408-4869 Senectus Rd.",
 		"beds": 1,
-		"price": "$1,097.23",
+		"price": "1097.23",
 		"bathrooms": 1,
-		"country": "Sosnowiec",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2360673/pexels-photo-2360673.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "dhaka",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2360673/pexels-photo-2360673.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1126,12 +1126,12 @@
 		"name": "Kylynn Salas",
 		"address": "503-1597 Aenean Rd.",
 		"beds": 2,
-		"price": "$1,000.81",
+		"price": "1000.81",
 		"bathrooms": 2,
-		"country": "Vinh",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/1876045/pexels-photo-1876045.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "dhaka",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/1876045/pexels-photo-1876045.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1139,12 +1139,12 @@
 		"name": "Mia Goodman",
 		"address": "Ap #734-4436 Vel, Street",
 		"beds": 2,
-		"price": "$1,373.10",
+		"price": "1373.10",
 		"bathrooms": 3,
-		"country": "Baguio",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "dhaka",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1152,12 +1152,12 @@
 		"name": "Karen Lang",
 		"address": "7244 Viverra. St.",
 		"beds": 1,
-		"price": "$1,104.29",
+		"price": "1104.29",
 		"bathrooms": 2,
-		"country": "Devonport",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/2090653/pexels-photo-2090653.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "dhaka",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/2090653/pexels-photo-2090653.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	},
 	{
@@ -1165,12 +1165,12 @@
 		"name": "Eugenia Cooper",
 		"address": "Ap #380-6820 Sed, Av.",
 		"beds": 3,
-		"price": "$1,050.71",
+		"price": "1050.71",
 		"bathrooms": 3,
-		"country": "Sokoto",
-		"property-type": "apartment",
-		"size":"8x6m",
-		"photo-url": "https://images.pexels.com/photos/415687/pexels-photo-415687.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
+		"city" : "dhaka",
+		"propertyType": "apartment",
+		"size":"8x6",
+		"photoUrl": "https://images.pexels.com/photos/415687/pexels-photo-415687.jpeg?auto=compress\u0026cs=tinysrgb\u0026h=350"
 
 	}
 ]
