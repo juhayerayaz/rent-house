@@ -1,13 +1,23 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from "react-router-dom";
 import { signOut } from 'firebase/auth';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import auth from '../../firebase.init';
+import { MdAddShoppingCart } from 'react-icons/md';
 const Navbar = () => {
     const [user] = useAuthState(auth);
+    const [cart, setCart] = useState([]);
 
     const handleSignOut = () => {
         signOut(auth);
+    }
+    let quantity = localStorage.getItem('shopping-cart')
+    let shoppingCart = {}
+    if (quantity === null) {
+        localStorage.setItem('shopping-cart', JSON.stringify(shoppingCart));
+    }
+    else {
+        console.log(cart);
     }
     return (
         <div className="navbar bg-base-100 py-3 shadow lg:px-24">
@@ -25,7 +35,7 @@ const Navbar = () => {
                                 Manage Property
                                 <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
                             </a>
-                            <ul className="p-2 shadow mx-2">
+                            <ul className="p-2 shadow mx-2 bg-white">
                                 <li><a className='btn btn-ghost hover:text-primary font-semi-bold' href='/#'>Manage Property 1</a></li>
                                 <li><a className='btn btn-ghost hover:text-primary font-semi-bold' href='/#'>Manage Property 2</a></li>
                             </ul>
@@ -35,11 +45,17 @@ const Navbar = () => {
                                 Resources
                                 <svg className="fill-current" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.59,16.58L13.17,12L8.59,7.41L10,6L16,12L10,18L8.59,16.58Z" /></svg>
                             </a>
-                            <ul className="p-2 shadow mx-2">
+                            <ul className="p-2 shadow mx-2 bg-white">
                                 <li><a className='btn btn-ghost hover:text-primary font-semi-bold' href='/#'>Resource 1</a></li>
                                 <li><a className='btn btn-ghost hover:text-primary font-semi-bold' href='/#'>Resource 2</a></li>
                             </ul>
                         </li>
+                        <div className='btn btn-ghost m-2'>
+                            <div class="indicator">
+                                <span class="indicator-item badge badge-secondary">9</span>
+                                <button><MdAddShoppingCart className='text-4xl' /></button>
+                            </div>
+                        </div>
                         {user ?
                             <button className='btn btn-outline btn-primary font-bold px-5' onClick={handleSignOut}>SignOut</button> :
                             <>
@@ -78,6 +94,12 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end hidden lg:flex">
+                <div className='mr-4 btn btn-ghost'>
+                    <div class="indicator">
+                        <span class="indicator-item badge badge-secondary">9</span>
+                        <button><MdAddShoppingCart className='text-4xl' /></button>
+                    </div>
+                </div>
                 {user ?
                     <>
                         <button className='btn btn-primary font-bold px-5' onClick={handleSignOut}><p className='text-white'>Sign Out</p></button>
