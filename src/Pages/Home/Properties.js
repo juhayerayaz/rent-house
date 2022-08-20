@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
-import { addToDb, getStoredCart } from '../Shared/fakedb';
-import Cart from './Cart';
 import './Properties.css'
 import ShowProperty from './ShowProperty';
 
@@ -12,7 +10,7 @@ const Properties = () => {
     const [locations, setLocations] = useState(" ");
     const [price, setPrice] = useState(" ");
     const [rentType, setRentType] = useState(" ");
-    const [cities, setCities] = useState([]);
+    const [search, setSearch] = useState([]);
     useEffect(() => {
         fetch("properties.json")
             .then((res) => res.json())
@@ -32,43 +30,8 @@ const Properties = () => {
     }
     const handleSearch = (event) => {
         const splitPrice = price.split("-");
-        const city = properties.filter((p) => p.city === locations && parseInt(splitPrice[0]) <= parseInt(p.price) && parseInt(splitPrice[1]) >= parseInt(p.price) && p.propertyType === rentType)
-        setCities(city)
-        // const propPrice = properties.filter((p) => p.propertyType === rentType)
-        // console.log(propPrice);
-    }
-
-    const [cart, setCart] = useState([]);
-
-    useEffect(() => {
-        const storedCart = getStoredCart();
-        const savedCart = [];
-        for (const id in storedCart) {
-            const addedProperty = properties.find(property => property.id === id);
-            if (addedProperty) {
-                const quantity = storedCart[id];
-                addedProperty.quantity = quantity;
-                savedCart.push(addedProperty);
-            }
-        }
-        setCart(savedCart);
-    }, [properties])
-
-    const handleAddToCart = (selectedProperty) => {
-        let newCart = [];
-        const exists = cart.find(property => property.id === selectedProperty.id);
-        if (!exists) {
-            selectedProperty.quantity = 1;
-            newCart = [...cart, selectedProperty];
-        }
-        else {
-            const rest = cart.filter(property => property.id !== selectedProperty.id)
-            exists.quantity = exists.quantity + 1;
-            newCart = [...rest, exists];
-        }
-        // const newCart = [...cart, selectedProduct];
-        setCart(newCart);
-        addToDb(selectedProperty.id)
+        const filter = properties.filter((p) => p.city === locations && parseInt(splitPrice[0]) <= parseInt(p.price) && parseInt(splitPrice[1]) >= parseInt(p.price) && p.propertyType === rentType)
+        setSearch(filter)
     }
     return (
         <div>
@@ -132,15 +95,13 @@ const Properties = () => {
             </div>
             <div className='lg:mx-40 mx-16 mt-16 mb-48'>
                 <div className='grid grid-cols-1 lg:grid-cols-3 lg:gap-6 gap-4'>
-                    {cities.map((property) => (
+                    {search.map((property) => (
                         <ShowProperty
                             key={property.id}
-                            property={property}
-                            handleAddToCart={handleAddToCart}></ShowProperty>
+                            property={property}></ShowProperty>
                     ))}
                 </div>
             </div>
-            <Cart cart={cart}></Cart>
         </div>
     );
 };
